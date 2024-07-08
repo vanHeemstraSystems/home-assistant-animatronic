@@ -1,7 +1,9 @@
-repository-name
+home-assistant-animatronic
 # Repository Name
 
-Based on "ABC" at https://www.abc.com/
+Based on "Controlling our Animatronic "Dragon" with Home Assistant Voice" at https://www.youtube.com/watch?v=aR0qSIRDQpg
+
+Based on "Bottango" at https://bottango.com
 
 ## 100 - Introduction
 
