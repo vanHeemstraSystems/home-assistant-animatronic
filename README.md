@@ -5,6 +5,10 @@ Based on "Controlling our Animatronic "Dragon" with Home Assistant Voice" at htt
 
 Based on "Bottango" at https://bottango.com
 
+Based on "Animatronic Kit: Maxwell" at https://www.bottango.com/products/maxwell-1
+
+Based on "Louie" at https://www.bottango.com/pages/louie
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
